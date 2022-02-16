@@ -1,0 +1,1 @@
+description_declare_variables = """Change the value of one of the variables (is_water_hot or have_tea) so that can_make_tea keeps False and we can't make tea."""

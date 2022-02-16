@@ -1,7 +1,7 @@
 from io import StringIO
 import sys
 import importlib
-from smarttekinternship.tasks.main_concepts.make_fruit_juice import make_fruit_juice
+from tasks.main_concepts.make_fruit_juice import make_fruit_juice
 
 
 def test_apples_should_be_defined():

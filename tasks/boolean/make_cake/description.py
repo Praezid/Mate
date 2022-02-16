@@ -1,0 +1,1 @@
+description_declare_variables = """Change the values of the variables (has_eggs, has_flour or has_sugar) so that can_make_cake remains True and we have all the ingredients to make the cake."""

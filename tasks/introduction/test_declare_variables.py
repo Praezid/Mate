@@ -1,4 +1,4 @@
-from smarttekinternship.tasks.introduction import declare_variables
+from tasks.introduction import declare_variables
 
 
 def test_age_should_be_defined():

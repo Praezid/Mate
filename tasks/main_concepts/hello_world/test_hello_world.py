@@ -7,7 +7,7 @@ def test_hello_world():
     captured_output = StringIO()
     sys.stdout = captured_output
 
-    from smarttekinternship.tasks.main_concepts.hello_world import hello_world
+    from tasks.main_concepts.hello_world import hello_world
 
     assert captured_output.getvalue() == "Hello, world!\n"
 

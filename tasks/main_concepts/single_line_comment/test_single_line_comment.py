@@ -1,6 +1,6 @@
 import re
 
-from smarttekinternship.tasks.main_concepts.single_line_comment import single_line_comment
+from tasks.main_concepts.single_line_comment import single_line_comment
 
 
 def test_single_line_comment():

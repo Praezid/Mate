@@ -1,4 +1,4 @@
-from smarttekinternship.tasks.main_concepts.uncomment_code import uncomment_code
+from tasks.main_concepts.uncomment_code import uncomment_code
 
 
 def test_name_should_be_uncommented():
